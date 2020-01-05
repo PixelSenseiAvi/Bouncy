@@ -22,3 +22,6 @@
 *	**5**: turn on/off the fog
 **Recommended:** Press 2, 4, 5 before playing.  
 To play, you just need the ***build folder (Windows only). Run AVI.exe.*** 
+
+## Gameplay ##
+[![Gamw WalkThrough](https://img.youtube.com/vi/XfwxAPTr02g/0.jpg)](https://www.youtube.com/watch?v=XfwxAPTr02g)
