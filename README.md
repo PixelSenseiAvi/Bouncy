@@ -27,5 +27,5 @@
 **Recommended:** Press 2, 4, 5 before playing.  
 To play, you just need the ***build folder (Windows only). Run AVI.exe.*** 
 
-## Gameplay ##
+## Gameplay: Video Walkthrough ##
 [![Gamw WalkThrough](https://img.youtube.com/vi/XfwxAPTr02g/1.jpg)](https://www.youtube.com/watch?v=XfwxAPTr02g)
