@@ -2,8 +2,8 @@
 	
 * This project is created in Unity3D. 
 *	The environment is created on a 20x20 plane in a low-poly environment. 
-*	The game is placed in 2 environment settings: day and night. 
-*	The ball is restricted to move in a certain path, all nearby objects have a mesh collider to give effects like elastic bounce. 
+*	The game has 2 environment settings: day and night. 
+*	The nearby buildings have a mesh colliders to restrict the ball movement along the path and trigger effects like elastic bounce. 
 *	The path contains some destructible objects and characters. Destroying the objects and characters may result in rewarding or losing coins. Also, the collision to nearby building results in losing coin. 
 *	As soon as the score reaches <0, the game is over. 
 *	The main objective is to roll the ball to collect as many coins as possible and make exit.
@@ -24,8 +24,9 @@
 *	**3,4**: switch between skyboxes
 *	**5**: turn on/off the fog
 *	**SPACEBAR**: JUMP
-**Recommended:** Press 2, 4, 5 before playing.  
-To play, you just need the ***build folder (Windows only). Run AVI.exe.*** 
+
+**Recommended:** Press 2, 4, 5 before playing. 
+=============To play, you just need the ***build folder (Windows only). Run AVI.exe.*** 
 
 ## Gameplay: Video Walkthrough ##
 [![Gamw WalkThrough](https://img.youtube.com/vi/XfwxAPTr02g/1.jpg)](https://www.youtube.com/watch?v=XfwxAPTr02g)
